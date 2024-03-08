@@ -9,6 +9,7 @@ List[3] = "Pass"
 print(List)
 del List[0]
 print(List)
+print("Himalyan")
 
 #Tuple
 
