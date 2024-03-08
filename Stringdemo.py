@@ -14,3 +14,5 @@ print(dev[0])
 
 Str4 = " Great "
 print(Str4.rstrip())
+print("My Name is abhishek")
+print(Str[0:4])
