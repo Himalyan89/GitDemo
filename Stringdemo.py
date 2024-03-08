@@ -16,3 +16,5 @@ Str4 = " Great "
 print(Str4.rstrip())
 print("My Name is abhishek")
 print(Str[0:4])
+
+print("changes made by American user Gitstuff")
